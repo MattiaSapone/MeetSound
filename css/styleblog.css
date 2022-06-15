@@ -793,7 +793,9 @@ MEDIA QUERIES mobile
     margin: 0 auto;
     /* width: 94%; */
     width: 350px;
+    padding: 10px;
   }
+  
   nav .create #menu-btn {
     font-size: 1.6rem;
     display: inline-block;
