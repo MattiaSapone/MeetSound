@@ -120,30 +120,41 @@ nav ul li a{
 }
 
 @media (max-width: 750px){
-    .sign-in{
-        display: none;
-    }
-    .sign-up{
-        display: none;
-    }
+    .back-video{
+        height: 100vh;
+        }
     
-    .logo{
-        margin-left: 50px;
-    }
-    .rapporti{
-        margin-left: 50px;
-    }
+        .hero .content{
+            top: 10px;
+        }
+        .sign-in{
+            display: none;
+        }
+        .sign-up{
+            display: none;
+        }
+        
+        .content{
+            margin-top: 100px;
+        }
+        .logo{
+            margin-left: -35px;
+        }
+        .rapporti{
+            margin-left: 50px;
+        }
+        
+    .hero .content .enter{
+            margin-top: 20px;
+            margin-left: 50px;
+            margin-bottom: 50px;
+            
+        }
     
-    .enter{
-        margin-top: 20px;
-        right: -300px;
+        .color{
+            margin-top: 500px;
+        }
     }
-
-    .color{
-        margin-left: 50px;
-    }
-}
-
 @media (max-width: 551px){
 
     .back-video{
@@ -208,10 +219,10 @@ nav ul li a{
         margin-left: 50px;
     }
     
-.hero .content .enter{
-        margin-top: 20px;
-        margin-left: 50px;
-        margin-bottom: 50px;
+.hero .content {
+        margin-top: 10px;
+        margin-left: 20px;
+        margin-bottom: 70px;
         
     }
 
