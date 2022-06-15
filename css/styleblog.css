@@ -791,7 +791,8 @@ MEDIA QUERIES mobile
 
   .hero-section{
     margin: 0 auto;
-    width: 94%;
+    /* width: 94%; */
+    width: 350px;
   }
   nav .create #menu-btn {
     font-size: 1.6rem;
