@@ -144,10 +144,10 @@ nav ul li a{
             margin-left: 50px;
         }
         
-    .hero .content .enter{
-            margin-top: 20px;
+     .hero .content .enter{
+            margin-top: 10px;
             margin-left: 50px;
-            margin-bottom: 50px;
+            margin-bottom: 70px;
             
         }
     
@@ -222,7 +222,7 @@ nav ul li a{
 .hero .content {
         margin-top: 10px;
         margin-left: 20px;
-        margin-bottom: 70px;
+        margin-bottom: 150px;
         
     }
 
