@@ -784,11 +784,15 @@ MEDIA QUERIES PICCOLI TABLET E MOBILE
 MEDIA QUERIES mobile
 ==========================
 */
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 400px) {
   .container {
     width: 96%;
   }
 
+  .hero-section{
+    margin: 0 auto;
+    width: 94%;
+  }
   nav .create #menu-btn {
     font-size: 1.6rem;
     display: inline-block;
@@ -807,10 +811,7 @@ MEDIA QUERIES mobile
   .left h3 {
     display: none;
   }
-  .sidebar .menu-item i{
-    text-align: ;
-  }
-
+ 
   .left #close-btn {
     display: inline-block;
     position: absolute;
